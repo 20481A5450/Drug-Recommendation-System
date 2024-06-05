@@ -1,0 +1,122 @@
+Birth Control                                                     9648
+Depression                                                        3095
+Pain                                                              2100
+Anxiety                                                           1908
+Acne                                                              1847
+Bipolar Disorde                                                   1380
+Weight Loss                                                       1248
+Insomnia                                                          1231
+Obesity                                                           1189
+ADHD                                                              1126
+Emergency Contraception                                            827
+Vaginal Yeast Infection                                            811
+Diabetes, Type 2                                                   808
+High Blood Pressure                                                783
+Smoking Cessation                                                  660
+Abnormal Uterine Bleeding                                          648
+Bowel Preparation                                                  639
+Migraine                                                           583
+ibromyalgia                                                        579
+Anxiety and Stress                                                 573
+Constipation                                                       525
+Major Depressive Disorde                                           524
+Chronic Pain                                                       485
+Panic Disorde                                                      469
+Migraine Prevention                                                454
+Urinary Tract Infection                                            431
+Opiate Dependence                                                  398
+Osteoarthritis                                                     387
+Muscle Spasm                                                       387
+Erectile Dysfunction                                               381
+Generalized Anxiety Disorde                                        378
+Allergic Rhinitis                                                  350
+Irritable Bowel Syndrome                                           325
+Rheumatoid Arthritis                                               320
+Bacterial Infection                                                307
+Cough                                                              297
+Sinusitis                                                          289
+Nausea/Vomiting                                                    266
+GERD                                                               246
+Hepatitis C                                                        245
+Hyperhidrosis                                                      240
+Restless Legs Syndrome                                             240
+Overactive Bladde                                                  234
+Multiple Sclerosis                                                 215
+High Cholesterol                                                   206
+HIV Infection                                                      202
+Psoriasis                                                          198
+Schizophrenia                                                      195
+Hypogonadism, Male                                                 195
+Back Pain                                                          192
+Endometriosis                                                      192
+Constipation, Chronic                                              179
+Seizures                                                           176
+Rosacea                                                            175
+Obsessive Compulsive Disorde                                       173
+Benign Prostatic Hyperplasia                                       165
+Asthma, Maintenance                                                158
+Bronchitis                                                         157
+Not Listed / Othe                                                  153
+Bacterial Vaginitis                                                153
+Headache                                                           153
+Narcolepsy                                                         152
+Onychomycosis, Toenail                                             137
+Postmenopausal Symptoms                                            136
+Social Anxiety Disorde                                             133
+Alcohol Dependence                                                 130
+Bladder Infection                                                  130
+Herpes Simplex                                                     129
+Menstrual Disorders                                                127
+Schizoaffective Disorde                                            127
+Epilepsy                                                           120
+Underactive Thyroid                                                118
+Post Traumatic Stress Disorde                                      118
+Influenza                                                          117
+Cough and Nasal Congestion                                         113
+Psoriatic Arthritis                                                112
+Opiate Withdrawal                                                  107
+Cold Sores                                                         105
+Inflammatory Conditions                                            103
+Nasal Congestion                                                   100
+Breast Cance                                                        99
+Plaque Psoriasis                                                    98
+Chlamydia Infection                                                 98
+Premenstrual Dysphoric Disorde                                      98
+Neuropathic Pain                                                    96
+Pneumonia                                                           88
+Anesthesia                                                          86
+Osteoporosis                                                        86
+Urticaria                                                           80
+COPD, Maintenance                                                   78
+Polycystic Ovary Syndrome                                           78
+Constipation, Drug Induced                                          77
+Helicobacter Pylori Infection                                       77
+Asthma                                                              77
+Ulcerative Colitis                                                  75
+Atrial Fibrillation                                                 75
+Crohn's Disease, Maintenance                                        74
+Motion Sickness                                                     72
+mance Anxiety                                                       72
+Seizure Prevention                                                  71
+Hashimoto's disease                                                 71
+Diarrhea                                                            69
+Alcohol Withdrawal                                                  68
+Hot Flashes                                                         67
+Urinary Incontinence                                                64
+Upper Respiratory Tract Infection                                   64
+Sedation                                                            63
+Ankylosing Spondylitis                                              61
+Peripheral Neuropathy                                               60
+Skin or Soft Tissue Infection                                       56
+Gout, Acute                                                         56
+Otitis Media                                                        55
+Ovarian Cysts                                                       55
+Dry Eye Disease                                                     54
+Atopic Dermatitis                                                   54
+Diabetic Peripheral Neuropathy                                      54
+Crohn's Disease                                                     53
+Atrophic Vaginitis                                                  53
+Eczema                                                              52
+Trigeminal Neuralgia                                                51
+Parkinson's Disease                                                 50
+Borderline Personality Disorde                                      50
