@@ -44,7 +44,7 @@ nltk.download('wordnet', download_dir=nltk_data_path, quiet=True)
 lemmatizer=WordNetLemmatizer()
 
 # Hugging Face repository details
-HF_REPO_ID = "ShaikZo/Drug_AI_Models"  # Replace with your Hugging Face repo ID
+HF_REPO_ID = "ShaikZo/DRS"  # Replace with your Hugging Face repo ID
 MODEL_FILENAME = "passmodel_quantized_compressed.pkl"
 TOKENIZER_FILENAME = "tfidfvectorizer_compressed.pkl"
 
@@ -186,7 +186,7 @@ This project predicts the **condition** of a patient based on their **drug revie
 - **Total data points in the top 20 conditions**: 94446
                    
 - **Data Preprocessing**: Text cleaning, lemmatization, and stopword removal (NLP).
-- **Model**: Passive Aggressive Classifier with TF-IDF Vectorization also deployed in [HuggingFace repo](https://huggingface.co/Jilani001/Drug_AI_Models/tree/main).
+- **Model**: Passive Aggressive Classifier with TF-IDF Vectorization also deployed in [HuggingFace repo](https://huggingface.co/ShaikZo/Drug_AI_Models/tree/main).
 - **Data Filtering**: Only reviews with a rating of 9 or higher and at least 100 useful votes are considered.
 - **Drug Recommendations**: Based on the predicted condition, the top 3 recommended drugs are displayed.
 - **Performance**: The model is optimized for faster inference and reduced memory usage.
