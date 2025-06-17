@@ -4,12 +4,12 @@ import streamlit as st
 import joblib
 import pandas as pd
 import re
-import numpy as np
+# import numpy as np  # Removed unused import
 import nltk
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords
 from bs4 import BeautifulSoup
-import time
+# import time  # Removed unused import
 
 # # Download required NLTK resources
 # nltk_data_path = os.path.expanduser('~\\nltk_data')
@@ -95,7 +95,7 @@ def preprocess_dataframe(data_path):
     df = pd.read_csv(data_path)
     return df[(df['rating'] >= 9) & (df['usefulCount'] >= 100)]
 
-DATA_PATH = 'data/drugsComTrain.csv'
+DATA_PATH = 'dataset/drugsComTrain.csv'
 df = preprocess_dataframe(DATA_PATH)
 
 def top_drugs_extractor(condition, df):
